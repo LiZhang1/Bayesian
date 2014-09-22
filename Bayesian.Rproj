@@ -9,5 +9,9 @@ UseSpacesForTab: Yes
 NumSpacesForTab: 2
 Encoding: UTF-8
 
+<<<<<<< HEAD
 RnwWeave: Sweave
+=======
+RnwWeave: knitr
+>>>>>>> 6c525ead0ecc02913aabb60f048ca09af5b69622
 LaTeX: pdfLaTeX
